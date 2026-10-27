@@ -1,11 +1,13 @@
 # Supermarket-Sales-Analysis-Prediction-Using-ML
 
-Project Overview
+Project Overview :-
 
 This project focuses on analyzing Supermart sales data to uncover meaningful business insights, identify sales trends, evaluate regional and category-wise performance, and compare machine learning models for sales prediction.
 
 The project uses Python for data preprocessing, exploratory data analysis (EDA), data visualization, and predictive modeling. It combines business analytics with machine learning to understand sales performance and support data-driven decision-making.
-Project Objectives
+
+
+Project Objectives :-
 
 The project addresses five major research objectives:
 
@@ -23,7 +25,9 @@ Examine monthly sales patterns to identify trends and changes in sales over time
 
 Top 10 Sub-Categories Analysis
 Identify the top 10 product sub-categories based on total sales.
-Project Workflow
+
+
+Project Workflow :-
 
 The project follows an end-to-end data analytics workflow:
 
